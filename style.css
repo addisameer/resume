@@ -1,0 +1,20 @@
+.first{
+    text-align: center;
+}
+
+hr{
+    border:2px solid gray;
+}
+img{
+    height: 150px;
+    width: 150px;
+    /* border: 10px solid black; */
+    /* radius: 10px; */
+}
+.tabl{
+    /* align: center; */
+    margin-left: 40px;
+    border: 2px;
+    /* background-color: aqua; */
+    padding: 2px;
+}
